@@ -26,7 +26,7 @@
 9. Download the results of the query to results.csv
 10. Read results.csv into a Jupyter Notebook and create visualizations
 
--
+---
 
 **Amazon Kinesis Data Stream Monitoring:**
 
